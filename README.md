@@ -94,7 +94,7 @@ Below are visual results for each of the 7 test environments. Each section conta
 
 ---
 
-### 📈 Path Cost Comparison (Lower is Better)
+### Path Cost Comparison (Lower is Better)
 
 | Environment   | Greedy A\* | Weighted A\* | RRT\*  |
 |---------------|------------|--------------|--------|
@@ -108,7 +108,7 @@ Below are visual results for each of the 7 test environments. Each section conta
 
 ---
 
-### 🎯 Heuristic Comparison: Euclidean vs Manhattan
+### Heuristic Comparison: Euclidean vs Manhattan
 
 These GIFs visualize the behavior of A\* with two different heuristics:
 
