@@ -1,0 +1,35 @@
+Run started at: 2025-08-08 21:44:07
+RunningRRTStar_single_cube...
+Success: True
+Path length: 7.9556
+
+Run started at: 2025-08-08 21:45:07
+RunningRRTStar_maze...
+Success: True
+Path length: 74.7219
+
+Run started at: 2025-08-08 21:46:07
+RunningRRTStar_flappy_bird...
+Success: True
+Path length: 28.1534
+
+Run started at: 2025-08-08 21:47:08
+RunningRRTStar_pillars...
+Success: True
+Path length: 28.9331
+
+Run started at: 2025-08-08 21:48:08
+RunningRRTStar_window...
+Success: True
+Path length: 25.7316
+
+Run started at: 2025-08-08 21:49:09
+RunningRRTStar_tower...
+Success: True
+Path length: 31.4291
+
+Run started at: 2025-08-08 21:50:09
+RunningRRTStar_room...
+Success: True
+Path length: 11.4058
+

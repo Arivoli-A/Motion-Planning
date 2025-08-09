@@ -1,0 +1,35 @@
+Run started at: 2025-08-08 21:41:51
+RunningGreedy_single_cube...
+Success: True
+Path length: 8.0000
+
+Run started at: 2025-08-08 21:41:56
+RunningGreedy_maze...
+Success: False
+Path length: 1000.0000
+
+Run started at: 2025-08-08 21:41:57
+RunningGreedy_flappy_bird...
+Success: False
+Path length: 1000.0000
+
+Run started at: 2025-08-08 21:41:58
+RunningGreedy_pillars...
+Success: False
+Path length: 1000.0000
+
+Run started at: 2025-08-08 21:41:59
+RunningGreedy_window...
+Success: False
+Path length: 1000.0000
+
+Run started at: 2025-08-08 21:42:00
+RunningGreedy_tower...
+Success: False
+Path length: 1000.0000
+
+Run started at: 2025-08-08 21:42:00
+RunningGreedy_room...
+Success: False
+Path length: 9.0000
+

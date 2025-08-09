@@ -1,0 +1,35 @@
+Run started at: 2025-08-08 21:42:00
+RunningAStar_single_cube...
+Success: True
+Path length: 7.9889
+
+Run started at: 2025-08-08 21:42:25
+RunningAStar_maze...
+Success: True
+Path length: 76.2315
+
+Run started at: 2025-08-08 21:42:30
+RunningAStar_flappy_bird...
+Success: True
+Path length: 31.3383
+
+Run started at: 2025-08-08 21:42:42
+RunningAStar_pillars...
+Success: True
+Path length: 31.0613
+
+Run started at: 2025-08-08 21:42:56
+RunningAStar_window...
+Success: True
+Path length: 27.7809
+
+Run started at: 2025-08-08 21:43:06
+RunningAStar_tower...
+Success: True
+Path length: 29.7870
+
+Run started at: 2025-08-08 21:43:06
+RunningAStar_room...
+Success: True
+Path length: 11.7175
+
